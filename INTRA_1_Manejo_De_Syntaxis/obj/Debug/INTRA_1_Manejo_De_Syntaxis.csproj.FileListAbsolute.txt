@@ -1,0 +1,10 @@
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\INTRA_1_Manejo_De_Syntaxis\bin\Debug\INTRA_1_Manejo_De_Syntaxis.exe.config
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\INTRA_1_Manejo_De_Syntaxis\bin\Debug\INTRA_1_Manejo_De_Syntaxis.exe
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\INTRA_1_Manejo_De_Syntaxis\bin\Debug\INTRA_1_Manejo_De_Syntaxis.pdb
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\INTRA_1_Manejo_De_Syntaxis\obj\Debug\INTRA_1_Manejo_De_Syntaxis.csproj.AssemblyReference.cache
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\INTRA_1_Manejo_De_Syntaxis\obj\Debug\INTRA_1_Manejo_De_Syntaxis.Form1.resources
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\INTRA_1_Manejo_De_Syntaxis\obj\Debug\INTRA_1_Manejo_De_Syntaxis.Properties.Resources.resources
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\INTRA_1_Manejo_De_Syntaxis\obj\Debug\INTRA_1_Manejo_De_Syntaxis.csproj.GenerateResource.cache
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\INTRA_1_Manejo_De_Syntaxis\obj\Debug\INTRA_1_Manejo_De_Syntaxis.csproj.CoreCompileInputs.cache
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\INTRA_1_Manejo_De_Syntaxis\obj\Debug\INTRA_1_Manejo_De_Syntaxis.exe
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\INTRA_1_Manejo_De_Syntaxis\obj\Debug\INTRA_1_Manejo_De_Syntaxis.pdb
