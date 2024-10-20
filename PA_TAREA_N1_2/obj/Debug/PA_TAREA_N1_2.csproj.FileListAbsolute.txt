@@ -1,0 +1,11 @@
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_TAREA_N1_2\bin\Debug\PA_TAREA_N1_2.exe.config
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_TAREA_N1_2\bin\Debug\PA_TAREA_N1_2.exe
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_TAREA_N1_2\bin\Debug\PA_TAREA_N1_2.pdb
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_TAREA_N1_2\obj\Debug\PA_TAREA_N1_2.csproj.AssemblyReference.cache
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_TAREA_N1_2\obj\Debug\PA_Tarea_N1.Form2.resources
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_TAREA_N1_2\obj\Debug\PA_TAREA_N1_2.Properties.Resources.resources
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_TAREA_N1_2\obj\Debug\PA_TAREA_N1_2.csproj.GenerateResource.cache
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_TAREA_N1_2\obj\Debug\PA_TAREA_N1_2.csproj.CoreCompileInputs.cache
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_TAREA_N1_2\obj\Debug\PA_TAREA_N1_2.exe
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_TAREA_N1_2\obj\Debug\PA_TAREA_N1_2.pdb
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_TAREA_N1_2\obj\Debug\PA_TAREA_N1_2.Form1.resources

@@ -1,0 +1,11 @@
+C:\Users\pzava\source\repos\PA_Tarea_N1\bin\Debug\PA_Tarea_N1.exe.config
+C:\Users\pzava\source\repos\PA_Tarea_N1\bin\Debug\PA_Tarea_N1.exe
+C:\Users\pzava\source\repos\PA_Tarea_N1\bin\Debug\PA_Tarea_N1.pdb
+C:\Users\pzava\source\repos\PA_Tarea_N1\obj\Debug\PA_Tarea_N1.csproj.AssemblyReference.cache
+C:\Users\pzava\source\repos\PA_Tarea_N1\obj\Debug\PA_Tarea_N1.Form1.resources
+C:\Users\pzava\source\repos\PA_Tarea_N1\obj\Debug\PA_Tarea_N1.Properties.Resources.resources
+C:\Users\pzava\source\repos\PA_Tarea_N1\obj\Debug\PA_Tarea_N1.csproj.GenerateResource.cache
+C:\Users\pzava\source\repos\PA_Tarea_N1\obj\Debug\PA_Tarea_N1.csproj.CoreCompileInputs.cache
+C:\Users\pzava\source\repos\PA_Tarea_N1\obj\Debug\PA_Tarea_N1.exe
+C:\Users\pzava\source\repos\PA_Tarea_N1\obj\Debug\PA_Tarea_N1.pdb
+C:\Users\pzava\source\repos\PA_Tarea_N1\obj\Debug\PA_Tarea_N1.Form2.resources
