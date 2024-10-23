@@ -1,0 +1,10 @@
+C:\Users\pzava\source\repos\PA_Intra_N1_3_Aviones\bin\Debug\PA_Intra_N1_3_Aviones.exe.config
+C:\Users\pzava\source\repos\PA_Intra_N1_3_Aviones\bin\Debug\PA_Intra_N1_3_Aviones.exe
+C:\Users\pzava\source\repos\PA_Intra_N1_3_Aviones\bin\Debug\PA_Intra_N1_3_Aviones.pdb
+C:\Users\pzava\source\repos\PA_Intra_N1_3_Aviones\obj\Debug\PA_Intra_N1_3_Aviones.csproj.AssemblyReference.cache
+C:\Users\pzava\source\repos\PA_Intra_N1_3_Aviones\obj\Debug\PA_Intra_N1_3_Aviones.Form1.resources
+C:\Users\pzava\source\repos\PA_Intra_N1_3_Aviones\obj\Debug\PA_Intra_N1_3_Aviones.Properties.Resources.resources
+C:\Users\pzava\source\repos\PA_Intra_N1_3_Aviones\obj\Debug\PA_Intra_N1_3_Aviones.csproj.GenerateResource.cache
+C:\Users\pzava\source\repos\PA_Intra_N1_3_Aviones\obj\Debug\PA_Intra_N1_3_Aviones.csproj.CoreCompileInputs.cache
+C:\Users\pzava\source\repos\PA_Intra_N1_3_Aviones\obj\Debug\PA_Intra_N1_3_Aviones.exe
+C:\Users\pzava\source\repos\PA_Intra_N1_3_Aviones\obj\Debug\PA_Intra_N1_3_Aviones.pdb

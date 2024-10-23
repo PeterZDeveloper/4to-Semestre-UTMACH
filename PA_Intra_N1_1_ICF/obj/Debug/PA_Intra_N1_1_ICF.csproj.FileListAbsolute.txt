@@ -1,0 +1,10 @@
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_1_ICF\bin\Debug\PA_Intra_N1_1_ICF.exe.config
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_1_ICF\bin\Debug\PA_Intra_N1_1_ICF.exe
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_1_ICF\bin\Debug\PA_Intra_N1_1_ICF.pdb
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_1_ICF\obj\Debug\PA_Intra_N1_1_ICF.csproj.AssemblyReference.cache
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_1_ICF\obj\Debug\PA_Intra_N1_1_ICF.Form1.resources
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_1_ICF\obj\Debug\PA_Intra_N1_1_ICF.Properties.Resources.resources
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_1_ICF\obj\Debug\PA_Intra_N1_1_ICF.csproj.GenerateResource.cache
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_1_ICF\obj\Debug\PA_Intra_N1_1_ICF.csproj.CoreCompileInputs.cache
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_1_ICF\obj\Debug\PA_Intra_N1_1_ICF.exe
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_1_ICF\obj\Debug\PA_Intra_N1_1_ICF.pdb

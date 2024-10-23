@@ -1,0 +1,10 @@
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_2_Boletos\bin\Debug\PA_Intra_N1_2_Boletos.exe.config
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_2_Boletos\bin\Debug\PA_Intra_N1_2_Boletos.exe
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_2_Boletos\bin\Debug\PA_Intra_N1_2_Boletos.pdb
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_2_Boletos\obj\Debug\PA_Intra_N1_2_Boletos.csproj.AssemblyReference.cache
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_2_Boletos\obj\Debug\PA_Intra_N1_2_Boletos.Form1.resources
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_2_Boletos\obj\Debug\PA_Intra_N1_2_Boletos.Properties.Resources.resources
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_2_Boletos\obj\Debug\PA_Intra_N1_2_Boletos.csproj.GenerateResource.cache
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_2_Boletos\obj\Debug\PA_Intra_N1_2_Boletos.csproj.CoreCompileInputs.cache
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_2_Boletos\obj\Debug\PA_Intra_N1_2_Boletos.exe
+C:\Users\pzava\Documents\GitHub\4to-Semestre-UTMACH\VSC\PA_Intra_N1_2_Boletos\obj\Debug\PA_Intra_N1_2_Boletos.pdb
