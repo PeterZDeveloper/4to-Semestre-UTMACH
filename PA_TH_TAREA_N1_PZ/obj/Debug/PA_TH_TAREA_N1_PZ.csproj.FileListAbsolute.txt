@@ -1,0 +1,16 @@
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\bin\Debug\PA_TH_TAREA_N1_PZ.exe.config
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\bin\Debug\PA_TH_TAREA_N1_PZ.exe
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\bin\Debug\PA_TH_TAREA_N1_PZ.pdb
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.csproj.AssemblyReference.cache
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.Form1.resources
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.Form2.resources
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.Form3.resources
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.Form4.resources
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.Form5.resources
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.Form6.resources
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.Properties.Resources.resources
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.csproj.GenerateResource.cache
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.csproj.CoreCompileInputs.cache
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.exe
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.pdb
+C:\Users\pzava\source\repos\PA_TH_TAREA_N1_PZ\obj\Debug\PA_TH_TAREA_N1_PZ.Form5_5.resources
