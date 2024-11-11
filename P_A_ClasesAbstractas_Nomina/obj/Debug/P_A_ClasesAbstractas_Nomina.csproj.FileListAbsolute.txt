@@ -1,0 +1,16 @@
+C:\Users\LAB02TC-MAQ13\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.csproj.AssemblyReference.cache
+C:\Users\LAB02TC-MAQ13\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.Form1.resources
+C:\Users\LAB02TC-MAQ13\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.Properties.Resources.resources
+C:\Users\LAB02TC-MAQ13\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.csproj.GenerateResource.cache
+C:\Users\LAB02TC-MAQ13\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.csproj.CoreCompileInputs.cache
+C:\Users\pzava\source\repos\P_A_ClasesAbstractas_Nomina\bin\Debug\P_A_ClasesAbstractas_Nomina.exe.config
+C:\Users\pzava\source\repos\P_A_ClasesAbstractas_Nomina\bin\Debug\P_A_ClasesAbstractas_Nomina.exe
+C:\Users\pzava\source\repos\P_A_ClasesAbstractas_Nomina\bin\Debug\P_A_ClasesAbstractas_Nomina.pdb
+C:\Users\pzava\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.csproj.AssemblyReference.cache
+C:\Users\pzava\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.FrmEdit1.resources
+C:\Users\pzava\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.Formularios.FrmAdmin1.resources
+C:\Users\pzava\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.Properties.Resources.resources
+C:\Users\pzava\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.csproj.GenerateResource.cache
+C:\Users\pzava\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.csproj.CoreCompileInputs.cache
+C:\Users\pzava\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.exe
+C:\Users\pzava\source\repos\P_A_ClasesAbstractas_Nomina\obj\Debug\P_A_ClasesAbstractas_Nomina.pdb
