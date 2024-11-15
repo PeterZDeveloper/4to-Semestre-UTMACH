@@ -30,12 +30,16 @@ namespace P_A_ClasesAbstractas_Nomina.Entidades
         public double Ies { get => ies; set => ies = value; }
 
         public double CalcularIess()
-            { 
+        {
             double total = 0;
-            if (hora <160) {
+            if (hora > 160)
+            { // Si las horas exceden 160, aplica el descuento
                 total = ((hora * costo) * ies) / 100;
+               // MessageBox.Show("Las horas trabajadas exceden 160. Se realizará un descuento con respecto al IESS.");
             }
-            return total; }
+            return total;
+        }
+
 
 
         public override double BonificacionAntiguedad()
