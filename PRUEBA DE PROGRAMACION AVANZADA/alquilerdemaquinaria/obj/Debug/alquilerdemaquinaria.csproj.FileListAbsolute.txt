@@ -1,0 +1,28 @@
+C:\Users\RS Import\source\repos\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.csproj.AssemblyReference.cache
+C:\Users\RS Import\source\repos\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.Properties.Resources.resources
+C:\Users\RS Import\source\repos\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.csproj.GenerateResource.cache
+C:\Users\RS Import\source\repos\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.csproj.CoreCompileInputs.cache
+C:\Users\orlsd\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.csproj.AssemblyReference.cache
+C:\Users\orlsd\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.Formularios.TablaAdmin.resources
+C:\Users\orlsd\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.Properties.Resources.resources
+C:\Users\orlsd\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.csproj.GenerateResource.cache
+C:\Users\orlsd\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.csproj.CoreCompileInputs.cache
+C:\Users\orlsd\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\bin\Debug\alquilerdemaquinaria.exe.config
+C:\Users\orlsd\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\bin\Debug\alquilerdemaquinaria.exe
+C:\Users\orlsd\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\bin\Debug\alquilerdemaquinaria.pdb
+C:\Users\orlsd\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.exe
+C:\Users\orlsd\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.pdb
+C:\Users\orlsd\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.Formularios.AgregarAlquiler.resources
+C:\Users\orlsd\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.Formularios.Agregardevolucion.resources
+C:\Users\pzava\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\bin\Debug\alquilerdemaquinaria.exe.config
+C:\Users\pzava\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\bin\Debug\alquilerdemaquinaria.exe
+C:\Users\pzava\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\bin\Debug\alquilerdemaquinaria.pdb
+C:\Users\pzava\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.csproj.AssemblyReference.cache
+C:\Users\pzava\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.Formularios.AgregarAlquiler.resources
+C:\Users\pzava\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.Formularios.Agregardevolucion.resources
+C:\Users\pzava\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.Formularios.TablaAdmin.resources
+C:\Users\pzava\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.Properties.Resources.resources
+C:\Users\pzava\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.csproj.GenerateResource.cache
+C:\Users\pzava\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.csproj.CoreCompileInputs.cache
+C:\Users\pzava\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.exe
+C:\Users\pzava\Desktop\PRUEBA DE PROGRAMACION AVANZADA\alquilerdemaquinaria\obj\Debug\alquilerdemaquinaria.pdb
