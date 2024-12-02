@@ -1,0 +1,12 @@
+C:\Users\pzava\source\repos\PA_PrestamoLibros\bin\Debug\PA_PrestamoLibros.exe.config
+C:\Users\pzava\source\repos\PA_PrestamoLibros\bin\Debug\PA_PrestamoLibros.exe
+C:\Users\pzava\source\repos\PA_PrestamoLibros\bin\Debug\PA_PrestamoLibros.pdb
+C:\Users\pzava\source\repos\PA_PrestamoLibros\obj\Debug\PA_PrestamoLibros.csproj.AssemblyReference.cache
+C:\Users\pzava\source\repos\PA_PrestamoLibros\obj\Debug\PA_PrestamoLibros.FrmEditEstudiantes.resources
+C:\Users\pzava\source\repos\PA_PrestamoLibros\obj\Debug\PA_PrestamoLibros.Properties.Resources.resources
+C:\Users\pzava\source\repos\PA_PrestamoLibros\obj\Debug\PA_PrestamoLibros.csproj.GenerateResource.cache
+C:\Users\pzava\source\repos\PA_PrestamoLibros\obj\Debug\PA_PrestamoLibros.csproj.CoreCompileInputs.cache
+C:\Users\pzava\source\repos\PA_PrestamoLibros\obj\Debug\PA_PrestamoLibros.exe
+C:\Users\pzava\source\repos\PA_PrestamoLibros\obj\Debug\PA_PrestamoLibros.pdb
+C:\Users\pzava\source\repos\PA_PrestamoLibros\obj\Debug\PA_PrestamoLibros.FrmMain.resources
+C:\Users\pzava\source\repos\PA_PrestamoLibros\obj\Debug\PA_PrestamoLibros.FrmPrestamo1.resources
