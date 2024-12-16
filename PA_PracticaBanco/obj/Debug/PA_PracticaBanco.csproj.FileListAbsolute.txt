@@ -1,0 +1,13 @@
+C:\Users\pzava\source\repos\PA_PracticaBanco\obj\Debug\PA_PracticaBanco.csproj.AssemblyReference.cache
+C:\Users\pzava\source\repos\PA_PracticaBanco\obj\Debug\PA_PracticaBanco.FormApertura.resources
+C:\Users\pzava\source\repos\PA_PracticaBanco\obj\Debug\PA_PracticaBanco.FormMain.resources
+C:\Users\pzava\source\repos\PA_PracticaBanco\obj\Debug\PA_PracticaBanco.FormMejorC.resources
+C:\Users\pzava\source\repos\PA_PracticaBanco\obj\Debug\PA_PracticaBanco.FormRetiro_Deposito.resources
+C:\Users\pzava\source\repos\PA_PracticaBanco\obj\Debug\PA_PracticaBanco.Properties.Resources.resources
+C:\Users\pzava\source\repos\PA_PracticaBanco\obj\Debug\PA_PracticaBanco.csproj.GenerateResource.cache
+C:\Users\pzava\source\repos\PA_PracticaBanco\obj\Debug\PA_PracticaBanco.csproj.CoreCompileInputs.cache
+C:\Users\pzava\source\repos\PA_PracticaBanco\bin\Debug\PA_PracticaBanco.exe.config
+C:\Users\pzava\source\repos\PA_PracticaBanco\bin\Debug\PA_PracticaBanco.exe
+C:\Users\pzava\source\repos\PA_PracticaBanco\bin\Debug\PA_PracticaBanco.pdb
+C:\Users\pzava\source\repos\PA_PracticaBanco\obj\Debug\PA_PracticaBanco.exe
+C:\Users\pzava\source\repos\PA_PracticaBanco\obj\Debug\PA_PracticaBanco.pdb
