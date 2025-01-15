@@ -1,0 +1,6 @@
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Entidades\bin\Debug\Entidades.dll
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Entidades\bin\Debug\Entidades.pdb
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Entidades\obj\Debug\Entidades.dll
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,12 @@
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Logica\bin\Debug\Logica.dll
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Logica\bin\Debug\Logica.pdb
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Logica\bin\Debug\Datos.dll
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Logica\bin\Debug\Entidades.dll
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Logica\bin\Debug\Datos.pdb
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Logica\bin\Debug\Datos.dll.config
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Logica\bin\Debug\Entidades.pdb
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Logica\obj\Debug\Logica.dll
+C:\SistemaSupermercado-2024-E2\SistemaMercados\Logica\obj\Debug\Logica.pdb
